@@ -10,10 +10,6 @@ In this project , we have tried to make a perfect clone of redbus.in.
 
 # Steps to install the project:
 
-## Install basic Software:
-* Install NodeJS
-* Install VS Code
-* Install Git
 
 ## Clone the following git repository inside any folder:
 
